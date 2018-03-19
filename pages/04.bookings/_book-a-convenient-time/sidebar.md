@@ -1,5 +1,5 @@
 ---
-title: 'Please book a time that is convenient for you'
+title: 'We''ll discuss your needs, what I offer and tackle one problem you''re struggling with, to get a feel for my coaching style'
 sidebar_position: none
 ---
 
