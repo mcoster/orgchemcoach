@@ -14,9 +14,9 @@ portfolio:
         title: 'Suit your schedule'
         text: 'Organic Chemistry is an international language! Via the Web, I can coach students studying anywhere. Do you study at odd hours? Great! Timezone differences mean that I am often available outside normal working hours.'
     -
-        image: james-hammond-368466.jpg
-        title: Feedback
-        text: '"Most helpful tutor I''ve ever had." <br />"He clearly listened to feedback from the students which was great to see."'
+        image: dreamstime_xxl_109898784.jpg
+        title: 'Results oriented'
+        text: 'Have you ever wanted to know what is on the exam before-hand? Of course! I know just what your Professor is going to ask you and with my practice problems, you won''t get a nasty surprise in the exam!'
 buttons:
     -
         text: 'Read More About Me'
