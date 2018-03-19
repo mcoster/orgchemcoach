@@ -3,7 +3,7 @@ title: 'Get In Touch'
 description: 'Use the form below to contact Mark regarding Org Chem Coaching.'
 body_class: contact
 icon: envelope
-menu: Contact
+menu: Enquire
 form:
     name: my-nice-form
     fields:
@@ -43,7 +43,9 @@ form:
         -
             email:
                 from: '{{ config.plugins.email.from }}'
-                to: ['{{ config.plugins.email.from }}', '{{ form.value.email }}']
+                to:
+                    - '{{ config.plugins.email.from }}'
+                    - '{{ form.value.email }}'
                 subject: '[orgchemcoach.net] {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
