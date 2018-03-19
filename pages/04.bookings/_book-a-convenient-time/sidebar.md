@@ -1,5 +1,5 @@
 ---
-title: 'We''ll discuss your needs, what I offer and tackle one problem you''re struggling with, to get a feel for my coaching style'
+title: 'There''s no expectations and there''s nothing to lose!'
 sidebar_position: none
 ---
 
