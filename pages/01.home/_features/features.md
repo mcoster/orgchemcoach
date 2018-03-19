@@ -7,7 +7,7 @@ features:
     -
         icon: check
         title: Testimonials
-        text: '"Most helpful tutor I''ve ever had." </br></br>"He clearly listened to feedback from the students which was great to see.".'
+        text: '"Most helpful tutor I''ve ever had." </br></br>"He clearly listened to feedback from the students which was great to see."'
     -
         icon: check
         title: 'Exam Preparation'
