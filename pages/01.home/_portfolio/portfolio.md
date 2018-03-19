@@ -1,5 +1,5 @@
 ---
-title: 'How we can help you'
+title: 'How I can help you'
 portfolio:
     -
         image: jeshoots-com-219056.jpg
@@ -14,7 +14,7 @@ portfolio:
         title: 'Suit your schedule'
         text: 'Organic Chemistry is an international language! Via the Web, I can coach students studying anywhere. Do you study at odd hours? Great! Timezone differences mean that I am often available outside normal working hours.'
     -
-        image: dreamstime_xxl_109898784.jpg
+        image: test.jpg
         title: 'Results oriented'
         text: 'Have you ever wanted to know what is on the exam before-hand? Of course! I know just what your Professor is going to ask you and with my practice problems, you won''t get a nasty surprise in the exam!'
 buttons:
