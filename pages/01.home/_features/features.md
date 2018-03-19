@@ -3,14 +3,14 @@ features:
     -
         icon: check
         title: Experience
-        text: 'I have over 20 years'' experience in Org Chem teaching and research and I currently teach Org Chem to classes at all levels within University.'
+        text: 'I have over 20 years'' experience in Organic Chemistry teaching and research and I currently teach Organic Chemistry to classes at all levels within University.'
     -
         icon: check
-        title: Innovative
-        text: 'I won''t just be explaining concepts the same way you''ve already heard before, I''ll be working with you to help you level-up your learning and study skills.'
+        title: Testimonials
+        text: '"Most helpful tutor I''ve ever had." </br></br>"He clearly listened to feedback from the students which was great to see.".'
     -
         icon: check
-        title: 'Progress Tracking'
-        text: 'We will track your progress during the coaching, so you''ll see how far you develop and recognise areas that still need some work.'
+        title: 'Exam Preparation'
+        text: 'I''ll guide you through exam-style practice questions, explaining how to tackle even the most challenging or Organic Chemistry exam questions. When you get to the exam, you''ll feel like you''ve seen it all before!.'
 ---
 
