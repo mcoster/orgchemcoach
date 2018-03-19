@@ -16,7 +16,7 @@ portfolio:
     -
         image: test.jpg
         title: 'Ace your exam!'
-        text: 'Have you ever wanted to know what is on the exam before-hand? Of course! I know just what your Professor is going to ask you and with my practice problems, you won''t get a nasty surprise in the exam!'
+        text: 'Have you ever wanted to know what is on the exam before-hand? Of course! I know just what your Professor is going to ask you, and with my practice problems, you won''t get a nasty surprise in the exam!'
 buttons:
     -
         text: 'Read More About Me'
