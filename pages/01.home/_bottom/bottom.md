@@ -2,7 +2,7 @@
 title: 'Ready to reach <strong>your</strong> ''aha''?'
 buttons:
     -
-        text: 'Make a Booking'
+        text: 'Book Your Session'
         url: bookings
         class: special
     -
