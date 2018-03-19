@@ -15,7 +15,7 @@ features:
         buttons:
             -
                 text: 'Learn More'
-                url: 'https://teaching.mcoster.net/DDD/'
+                url: 'https://3105nsc.mcoster.net'
     -
         icon: null
         title: Videos
