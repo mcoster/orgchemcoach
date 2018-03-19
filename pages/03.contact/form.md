@@ -60,4 +60,9 @@ form:
             display: thankyou
 ---
 
-Testing area
+I offer a free 15 minute introductory session - no obligations! Beyond that, I offer packages based on the total coaching time you would like to buy:
+* 1 hour = $150
+* 2 hours = $240
+* 4 hours = $400
+* 10 hours = $800
+Other arrangements are possible - just let me know what you are looking for.
