@@ -1,18 +1,18 @@
 ---
-title: 'What to expect'
+title: 'How we can help you'
 portfolio:
     -
         image: jeshoots-com-219056.jpg
         title: 'Online coaching'
-        text: 'I use the latest in web-based video-conferencing software, allowing a tutoring experience that is almost the same as being in the same room, but with greater flexibility and lower costs.'
+        text: 'More than just tutoring - we use modern web-based video-conferencing software, making you feel quickly at home and comfortable. And you won''t even have to leave home!'
     -
         image: helloquence-61189.jpg
-        title: 'In person'
-        text: 'For students located in Brisbane, Australia, I can offer in-person coaching, or you can combine online and in-person tutorials however you like.'
+        title: 'Free first session'
+        text: 'I provide a free first session to get to know each other, find out what your needs are and let you know what I can offer. There''s no obligations and once the ice is broken, you''re welcome to dive straight into asking your most burning question.'
     -
         image: slava-bowman-161206.jpg
         title: International
-        text: 'Org Chem is an international language! Via the Web, I can coach students studying anywhere. Timezone differences between Australia and your location may even be advantageous if you are seeking tutorials outside normal working hours.'
+        text: 'Organic Chemistry is an international language! Via the Web, I can coach students studying anywhere. Do you study at odd hours? Great! Timezone differences mean that I am often available outside normal working hours.'
     -
         image: james-hammond-368466.jpg
         title: Feedback
